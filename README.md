@@ -1,0 +1,3 @@
+- Working with Solana + Rust
+- Practicing MEV (Sandwich + Arbitrage)
+- Discord: @ultra_vigilante
